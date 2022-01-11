@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hung1503
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning reactJS
+- 🌱 I’m currently open to jobs and requests for projects
 - 💞️ I’m looking to collaborate with anyone for any project
 - 📫 How to reach me 
     phone number: 0465903165
